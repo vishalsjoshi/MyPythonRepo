@@ -2,6 +2,8 @@
 
 To get started, we'll take you through a sample Python Flask app, help you set up a development environment, deploy to IBM Cloud and add a Cloudant database.
 
+My test comments
+
 ## Prerequisites
 
 You'll need the following:
